@@ -1,2 +1,0 @@
-# undian
-Aplikasi Undian
